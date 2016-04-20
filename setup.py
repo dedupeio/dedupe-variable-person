@@ -10,6 +10,6 @@ setup(
     version='0.0.1',
     description='Variable type for American Person Names',
     packages=['dedupe.variables'],
-    install_requires=['dedupe-variables-name']
+    install_requires=['dedupe-variables-name'],
     license='The MIT License: http://www.opensource.org/licenses/mit-license.php'
     )
